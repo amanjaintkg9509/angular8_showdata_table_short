@@ -1,0 +1,7 @@
+{
+  "/api/*": {
+    "target": "https://jsonkeeper.com/b/UA1B",
+    "secure": false,
+    "logLevel": "debug"
+  }
+}
